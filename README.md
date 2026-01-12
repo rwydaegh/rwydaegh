@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm a PhD student at Ghent University & IMEC on the topic of 5G and its absorption of EMF dosimetry for humans. I mostly work with Sim4Life (FDTD software developped by ZMT) and my biggest project that uses this is [GOLIAT](https://github.com/rwydaegh/goliat). In my personal time I am also interested in finance sometimes!
+
+🌐 I have a small [personal website](https://www.robinwydaeghe.com/)! 
+
+👯 Always open for collaborations!
+
+📫 How to reach me: robin.wydaeghe@ugent.be or through my LinkedIn
+
 <!--
 **rwydaegh/rwydaegh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
