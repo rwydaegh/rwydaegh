@@ -4,8 +4,6 @@
 
 I have *just* submitted my PhD at Ghent University & IMEC on EMF dosimetry for 5G wireless networks, building tools to compute how much power the human body absorbs from wireless signals.
 
-My biggest repo yet is private behind the embargo of a patent priority filing, stay tuned!
-
 🌐 I have a small [personal website](https://www.robinwydaeghe.com/)
 
 👯 Always open for collaborations, and now also for opportunities after my PhD 👀
