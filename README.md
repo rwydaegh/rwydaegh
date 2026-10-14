@@ -4,6 +4,8 @@
 
 I have *just* submitted my PhD at Ghent University & IMEC on EMF dosimetry for 5G wireless networks, building tools to compute how much power the human body absorbs from wireless signals.
 
+🎓 Public PhD defense: 28 October, 17:00 CET, Ghent. [Details & RSVP](https://phd.rwydaeghe.be/).
+
 🌐 I have a small [personal website](https://www.robinwydaeghe.com/)
 
 👯 Always open for collaborations, and now also for opportunities after my PhD 👀
