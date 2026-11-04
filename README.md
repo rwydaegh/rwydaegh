@@ -2,9 +2,9 @@
 
 <img alt="rwydaegh's GitHub stats" align="right" src="./profile/stats.svg">
 
-I have *just* submitted my PhD at Ghent University & IMEC on EMF dosimetry for 5G wireless networks, building tools to compute how much power the human body absorbs from wireless signals.
+I just graduated with a PhD from Ghent University & IMEC on EMF dosimetry for 5G wireless networks, building tools to compute how much power the human body absorbs from wireless signals.
 
-🎓 Public PhD defense: 28 October, 17:00 CET, Ghent. [Details & RSVP](https://phd.rwydaeghe.be/).
+🎓 Take a look at the book, slides, recording and pics [here](https://phd.rwydaeghe.be/)!
 
 🌐 I have a small [personal website](https://www.robinwydaeghe.com/)
 
