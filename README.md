@@ -8,6 +8,8 @@ I just graduated with a PhD from Ghent University & IMEC on EMF dosimetry for 5G
 
 🌐 I have a small [personal website](https://www.robinwydaeghe.com/)
 
+📚 My papers are on [Google Scholar](https://scholar.google.com/citations?user=J-cB3akAAAAJ)
+
 👯 Always open for collaborations, and now also for opportunities after my PhD 👀
 
 📫 How to reach me: robin.wydaeghe@ugent.be or through my LinkedIn
